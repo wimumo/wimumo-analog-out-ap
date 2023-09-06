@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "esp32_filtros-rescue")(type "Legacy")(uri "${KIPRJMOD}/esp32_filtros-rescue.lib")(options "")(descr ""))
+)
