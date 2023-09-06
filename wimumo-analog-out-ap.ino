@@ -104,7 +104,8 @@ void setup() {
     // Se reciben los datos en una cadena
     char *cad = (char*)packet.data();
 
-    int val1, val2;
+    int val1 = 0;
+    int val2 = 0;
     char numero[4];
 
     // Si se recibió el bundle de información, 
